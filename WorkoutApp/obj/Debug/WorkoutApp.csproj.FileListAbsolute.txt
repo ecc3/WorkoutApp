@@ -1,0 +1,7 @@
+C:\Users\liz33\Source\Repos\WorkoutApp\WorkoutApp\obj\Debug\WorkoutApp.csprojAssemblyReference.cache
+C:\Users\liz33\Source\Repos\WorkoutApp\WorkoutApp\obj\Debug\WorkoutApp.csproj.CoreCompileInputs.cache
+C:\Users\liz33\Source\Repos\WorkoutApp\WorkoutApp\bin\Debug\WorkoutApp.exe.config
+C:\Users\liz33\Source\Repos\WorkoutApp\WorkoutApp\bin\Debug\WorkoutApp.exe
+C:\Users\liz33\Source\Repos\WorkoutApp\WorkoutApp\bin\Debug\WorkoutApp.pdb
+C:\Users\liz33\Source\Repos\WorkoutApp\WorkoutApp\obj\Debug\WorkoutApp.exe
+C:\Users\liz33\Source\Repos\WorkoutApp\WorkoutApp\obj\Debug\WorkoutApp.pdb
